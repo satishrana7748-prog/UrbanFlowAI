@@ -5,7 +5,6 @@ import csv
 import os
 from datetime import datetime
 
-
 # ============================================================
 # URBANFLOW AI - TRAFFIC SIMULATOR V2
 # ============================================================
@@ -42,7 +41,6 @@ JUNCTIONS = {
         "base_demand": 0.60
     }
 }
-
 
 def get_time_factor(hour):
     """
