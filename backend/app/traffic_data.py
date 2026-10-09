@@ -1,8 +1,8 @@
 traffic_data = [
     {
         "junction": "J1",
-        "vehicle_count": 85,
-        "average_speed_kmph": 42,
+        "vehicle_count": 80,
+        "average_speed_kmph": 45,
         "congestion_level": "Low"
     },
     {
@@ -50,7 +50,7 @@ traffic_data = [
     {
         "junction": "J9",
         "vehicle_count": 70,
-        "average_speed_kmph": 45,
+        "average_speed_kmph": 44,
         "congestion_level": "Low"
     }
 ]
