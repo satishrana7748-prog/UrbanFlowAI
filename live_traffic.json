@@ -6,7 +6,7 @@
     "traffic": [
         {
             "junction": "J1",
-            "junction_name": "Main Market",
+            "junction_name": "New Market",
             "vehicle_count": 168,
             "road_capacity": 300,
             "utilization_percent": 56.0,
@@ -24,7 +24,7 @@
         },
         {
             "junction": "J3",
-            "junction_name": "City Center",
+            "junction_name": "Main city",
             "vehicle_count": 369,
             "road_capacity": 400,
             "utilization_percent": 92.2,
